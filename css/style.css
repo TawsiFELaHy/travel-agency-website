@@ -15,6 +15,7 @@
   text-decoration: none;
   transition: all 0.2s linear;
 }
+
 body {
   overflow: hidden;
 }
@@ -684,5 +685,4 @@ header .search-bar-container label:hover {
   .contact .row form .inputBox input{
     width:100%;
   }
-
 } */
